@@ -1,6 +1,6 @@
 #### How to set up
 ```
-git clone https://github.com/robin-sitohang/mocha-chai-ts.git
+git clone https://github.com/robin-sitohang/wdio-mobile-ts.git
 
 npm install
 ```
